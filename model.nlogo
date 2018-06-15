@@ -1,4 +1,6 @@
 global
+
+something
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
